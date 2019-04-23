@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<comment version="3.0">
+  <caption>Melbourne</caption>
+  <note>Melbourne by Night</note>
+  <place/>
+  <categories>
+    <category value="skyline"/>
+    <category value="Australia"/>
+    <category value="skyscrapers"/>
+    <category value="southbank"/>
+    <category value="street"/>
+    <category value="sunrise"/>
+    <category value="sunset"/>
+    <category value="tourism"/>
+    <category value="tower"/>
+    <category value="traffic"/>
+    <category value="travel"/>
+    <category value="twilight"/>
+    <category value="urban"/>
+    <category value="vacations"/>
+    <category value="victoria"/>
+    <category value="view"/>
+    <category value="work"/>
+    <category value="yarra"/>
+    <category value="princes"/>
+    <category value="Melbourne"/>
+    <category value="apartment"/>
+    <category value="architecture"/>
+    <category value="blue"/>
+    <category value="bridge"/>
+    <category value="building"/>
+    <category value="cbd"/>
+    <category value="city"/>
+    <category value="cityscape"/>
+    <category value="dawn"/>
+    <category value="downtown"/>
+    <category value="dusk"/>
+    <category value="evening"/>
+    <category value="finance"/>
+    <category value="lights"/>
+    <category value="living"/>
+    <category value="modern"/>
+    <category value="night"/>
+    <category value="office"/>
+    <category value="river"/>
+  </categories>
+</comment>
